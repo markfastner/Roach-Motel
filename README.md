@@ -1,2 +1,2 @@
 # Roach-Motel
-Completed in CECS 277. Demonstrates understanding of Design Patterns
+Roach motel is a program that me and my group created in CECS 277 that shows my understanding of Design Patterns in java(including Decorator Pattern, Observer pattern, Factory Pattern, Singleton Pattern, Strategy Pattern, and Visitor Pattern). The program establishes a fully operating roach motel that allows for roaches to check into this hotel into different types of rooms with different amenities. Our program contains 3 different rooms, 3 different amenities, a waitlist for when the motel is full, a maid that cleans the rooms, and much more. Overall the program contains 20 different java classes and utilizes 7 different design patterns.
